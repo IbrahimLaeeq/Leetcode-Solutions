@@ -1,8 +1,11 @@
 class Solution:
     def isPalindrome(self, x: int) -> bool:
-       string_x = str(x)
-       # typecasting the input from integer data type 
-       # to string data - type
-
-       return string_x == string_x[::-1]
-       # [::-1] operator reverses the string
+       original_no = x 
+       # storing the original no for comparsion later on 
+       if x < 0 : 
+        return False
+       counter = 0 
+       while x > 0:
+            counter = (counter * 10) + (x % 10)
+            x = x // 10
+       return original_no == counter
