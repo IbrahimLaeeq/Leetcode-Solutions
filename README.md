@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [1904-second-largest-digit-in-a-string](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 # Greedy
 |  |
@@ -26,3 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+# Hash Table
+|  |
+| ------- |
+| [1904-second-largest-digit-in-a-string](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
