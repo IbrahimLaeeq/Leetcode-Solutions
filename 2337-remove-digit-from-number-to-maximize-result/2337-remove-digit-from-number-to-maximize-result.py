@@ -1,72 +1,52 @@
 class Solution:
     def removeDigit(self, number: str, digit: str) -> str:
         '''
-        we compare the digit to be reomved and we have two cases:
+        either we coudl remove the digits one by one and store 
+        the result and tehn just call the max funciton on it
+        but this woudl be the brute force apparoach 
 
-        a) if the next digit is greater than the current digit
-        then we shoudl delete the digit as we are maximizing/increasiing
-        our no 
-
-        i.e 1231 here "1" has 2 next to it so we delete the first "1"
-        to obtain 231 which is the maximum answer as oppossed to 123
-
-        b) if the next digit is smaller then we keep iterating until 
-        we find a case where the next digit is greater
-
-        c) if in all cases, teh , element present to the right of the
-        "digit" is smaller than teh "digit" , then , we just remove the 
-        last digit because we do have to remove a digit
-        42121 digit  = "2"
-        if we remove teh last 2 then , we get , 4211 as opposed to 
-        4121 which we obtian if we remove the first two which gives us 
-        a smaller answer
-
-        we need to  keep track of the last_index because if we dont find 
-        a case where the next ele or in this cae teh current pointer is
-        greater than the digit then we woudl jsut set teh last pointer 
-        here and then at the end we would just remove the "digit" at teh
-        last_index and create a string in teh worst case 
-
-        
+        eg:
+        for 1231 we weoudl get 123 and 231 and we would store them
+        and tehn we could just call teh max function on it like
+        max (all variables) and then just return the max variable
         '''
-
-        last_index = 0
-
-        ''' 
-        we iterate from one because we want to compare the curr ele
-        with the previous ele and if the previous ele is a "digit"
-        then we see taht if teh curr> prev then , removing , the prev 
-        woud be good for us i.e maximizing so we would just go ahead and 
-        do that
-        '''
-        for num in range (1,len(number)):
-
-            if number[num-1]== digit:
-                ''' 
-                the digit is present one position to the left of teh
-                curreent eleemenetn'''
-                if int(number[num-1]) < int (number[num]):
-                    return number[:num-1] + number[num:]
-                else:
-                    last_index = num - 1
-            
-            
-           
-            
-            if number[-1] == digit:
-                last_index = len(number) - 1
-            
+        ans = 0 
+        for i , dig in enumerate (list(number)):
             '''
-            we need this explicit check bc lets say
-            123, digit = 3
-            our for loop would not go to the "3" and it woudl return an incorrect
-            answer because it only assumes that the "digit" is one position to
-            the left of teh current pointer so when teh current pointer is at 
-            '3" it would look for the digit one position to its left and it
-            woudl find"2" there 
-
-             if our digit is present at the lat of teh number then we just 
-            set teh last incide to be at the last of the number
+            the enumerate funciton returns / gives us both the indice
+            and also teh no present at the current indice so it
+            returns a pair of (indice, number) but to use this 
+            function we need a list because only lists have indices
+            and we cannot use the enumerate function on a string
+            like we are given in teh question bc strings dont have
+            indices so basically the reaon for using enumerate here is
+            that we need to compare the no at each point with the given
+            digit so we use the enumerate function to simmplify 
+            things otherwise we could jsut do the normal interation
+            too after converting it into a list but we could not iterate
+            on it whilst it was still a string , and , once we encounter
+            our "digit" we woudl remove that by creating two substrings one
+            that consists of all teh eles before the digit and one that 
+            consisits of all the eles after the digit adn tehn we woudl 
+            append them and then compare that with the previous no that
+            we got and store the max of them and then return it . 
             '''
-        return number[:last_index] + number[last_index+1:]
+            if dig == digit:
+                ans = max(ans, int (number[:i]  + number[i+1:]))
+            '''
+            we use teh max funncotin becuase we want to compare the 
+            previous value and the current value adn only store teh 
+            maximum value out of those two and we use the stirngs
+            slicing here
+
+            [:i] this gives us a substring from the start of teh
+            number to the current indice i.e current indice is not 
+            inlcuded in the sub string basically the value at "i" 
+            isn ot included in the sub-string and then
+
+            [i+1:] this gives us a substring from teh i+1 indice till 
+            the end of the string
+            '''
+        return str (ans)
+
         
