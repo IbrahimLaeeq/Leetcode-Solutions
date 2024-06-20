@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/remove-digit-from-number-to-maximize-result">2337. Remove Digit From Number to Maximize Result</a></h2><h3>Easy</h3><hr><p>You are given a string <code>number</code> representing a <strong>positive integer</strong> and a character <code>digit</code>.</p>
+<h2><a href="https://leetcode.com/problems/remove-digit-from-number-to-maximize-result">Remove Digit From Number to Maximize Result</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code>number</code> representing a <strong>positive integer</strong> and a character <code>digit</code>.</p>
 
 <p>Return <em>the resulting string after removing <strong>exactly one occurrence</strong> of </em><code>digit</code><em> from </em><code>number</code><em> such that the value of the resulting string in <strong>decimal</strong> form is <strong>maximized</strong></em>. The test cases are generated such that <code>digit</code> occurs at least once in <code>number</code>.</p>
 
