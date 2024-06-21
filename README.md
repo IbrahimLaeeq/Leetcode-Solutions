@@ -31,3 +31,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1904-second-largest-digit-in-a-string](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
+# Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+# Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
