@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2058-concatenation-of-array](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 # Two Pointers
 |  |
 | ------- |
@@ -64,3 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+# Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
