@@ -39,12 +39,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 # Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 # Two Pointers
@@ -69,3 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+# Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
