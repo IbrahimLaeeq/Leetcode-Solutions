@@ -39,11 +39,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 # Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 # Two Pointers
 |  |
 | ------- |
@@ -54,3 +56,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+# Sorting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+# Counting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
