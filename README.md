@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1904-second-largest-digit-in-a-string](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 # Array
 |  |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 # Two Pointers
 |  |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 # Simulation
 |  |
 | ------- |
