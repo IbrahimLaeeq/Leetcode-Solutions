@@ -107,4 +107,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
