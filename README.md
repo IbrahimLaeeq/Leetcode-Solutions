@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0917-boats-to-save-people](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0217-contains-duplicate](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0917-boats-to-save-people](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 ## Union Find
 |  |
 | ------- |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
+| [0917-boats-to-save-people](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -144,4 +147,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
