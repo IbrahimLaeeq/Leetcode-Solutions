@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0917-boats-to-save-people](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,12 +106,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0917-boats-to-save-people](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Union Find
 |  |
 | ------- |
@@ -131,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0402-remove-k-digits](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0917-boats-to-save-people](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -151,4 +155,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Simulation
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
