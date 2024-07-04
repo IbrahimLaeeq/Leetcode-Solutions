@@ -166,5 +166,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
