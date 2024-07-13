@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0917-boats-to-save-people](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Two Pointers
 |  |
