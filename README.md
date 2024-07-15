@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0917-boats-to-save-people](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Binary Search
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
@@ -200,4 +202,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
