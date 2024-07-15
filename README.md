@@ -192,5 +192,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
