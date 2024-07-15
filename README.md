@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0917-boats-to-save-people](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Binary Search
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Matrix
 |  |
 | ------- |
