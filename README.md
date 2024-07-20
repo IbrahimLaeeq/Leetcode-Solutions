@@ -205,23 +205,27 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
