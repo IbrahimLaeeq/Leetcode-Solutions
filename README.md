@@ -205,9 +205,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
