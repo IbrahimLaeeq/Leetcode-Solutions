@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -264,4 +266,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
