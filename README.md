@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -270,4 +271,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
