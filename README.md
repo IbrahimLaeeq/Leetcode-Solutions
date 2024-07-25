@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [1765-merge-in-between-linked-lists](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
