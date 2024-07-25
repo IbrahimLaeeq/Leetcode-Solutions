@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0148-sort-list) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
