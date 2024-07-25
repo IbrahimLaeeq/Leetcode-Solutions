@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0374-guess-number-higher-or-lower](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Matrix
 |  |
@@ -306,4 +307,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0148-sort-list) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/IbrahimLaeeq/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
