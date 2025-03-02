@@ -1,29 +1,32 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        # Map each course to its prerequisites
-        preMap = {i: [] for i in range(numCourses)}
-        for crs, pre in prerequisites:
+        #hash table
+        preMap = {i : [] for i in range(numCourses)}
+        #populate the table
+        for crs, pre in prerequisites: 
             preMap[crs].append(pre)
-
-        # Store all courses along the current DFS path
-        visiting = set()
-
+        visitSet = set()
+        # declare set to find out if ele has already been visited before
         def dfs(crs):
-            if crs in visiting:
-                # Cycle detected
+            #base conditions
+            if crs in visitSet:
                 return False
             if preMap[crs] == []:
-                return True
+                return True 
+            # this means that we have taken all the pre requisites for 
+            #this course so now we can take this course 
 
-            visiting.add(crs)
+            visitSet.add(crs)
+
             for pre in preMap[crs]:
-                if not dfs(pre):
-                    return False
-            visiting.remove(crs)
+                if not dfs(pre): return False
+            # now run dfs for the pre requisites of the current course too
+            visitSet.remove(crs)#as we have processed all its pre requisites
             preMap[crs] = []
+            # set the pre req for this course to an empty list indicating that 
+            # we can take this course
             return True
 
-        for c in range(numCourses):
-            if not dfs(c):
-                return False
+        for crs in range(numCourses):
+            if not dfs(crs): return False
         return True
