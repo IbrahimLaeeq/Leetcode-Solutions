@@ -1,32 +1,39 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        #hash table
-        preMap = {i : [] for i in range(numCourses)}
-        #populate the table
-        for crs, pre in prerequisites: 
-            preMap[crs].append(pre)
-        visitSet = set()
-        # declare set to find out if ele has already been visited before
-        def dfs(crs):
-            #base conditions
-            if crs in visitSet:
+        self.preMap = collections.defaultdict(list)
+        # this dictoinary maps to a list
+        for crs, pre in prerequisites:
+            self.preMap[crs].append(pre)
+        
+        # now create 3 sets for topolgical sort
+        white = set((self.preMap.keys())) # eles that are left
+        grey = set()  # children of currently visited ele
+        black = set() # ele which has been fully processed
+
+        while white:
+            crs = white.pop()
+            
+            if not self.dfs(crs, grey , black):
                 return False
-            if preMap[crs] == []:
-                return True 
-            # this means that we have taken all the pre requisites for 
-            #this course so now we can take this course 
+        
+        return True
 
-            visitSet.add(crs)
+    def dfs(self,course, grey, black):
+        grey.add(course)
+        # adding course to grey after popping from white
 
-            for pre in preMap[crs]:
-                if not dfs(pre): return False
-            # now run dfs for the pre requisites of the current course too
-            visitSet.remove(crs)#as we have processed all its pre requisites
-            preMap[crs] = []
-            # set the pre req for this course to an empty list indicating that 
-            # we can take this course
-            return True
+        for prereq in self.preMap[course]:
+            if prereq in black:
+                continue
+            
+            if prereq in grey:
+                return False
+            
+            if not self.dfs(prereq, grey , black):
+                # calling dfs again
+                return False
+        
+        grey.remove(course)
+        black.add(course)
 
-        for crs in range(numCourses):
-            if not dfs(crs): return False
-        return True # this should be outside the loop
+        return True
