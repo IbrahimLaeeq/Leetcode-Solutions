@@ -1,9 +1,11 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        hsh = set()
-        for n in nums:
-            if n in hsh:
+        count_dict = {}
+        for i in nums:
+            if i in count_dict:
                 return True
-            hsh.add(n)
+            else:
+                count_dict[i] = 1
         return False
+        
         
